@@ -13,3 +13,14 @@ input {
 .validation-error {
   border: 0.0625rem solid red;
 }
+
+
+.btn {
+  border: 0;
+  background: blueviolet;
+  padding: 0.625rem 1.25rem;
+  border-radius: 1.25em;
+  color: wheat;
+  font-weight: bold;
+  margin: 0.625rem;
+}

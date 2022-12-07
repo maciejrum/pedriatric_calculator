@@ -1,0 +1,23 @@
+.add_icon {
+    max-height: 6.25rem;
+    height: 100%;
+    width: 100%;
+    max-width: 6.25rem;
+}
+
+.child-wrapper{
+    display: flex;
+    padding: 0.625rem;
+}
+
+.child-avatar-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 0.625rem;
+    text-decoration: none;
+}
+
+.child-avatar-box > p {
+    margin:0;
+}
